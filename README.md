@@ -1,2 +1,3 @@
 # Projekt1
-A játék fejlesztéshez : Prezentációt és a játk alkotóelemiet  tároljuk itt.
+
+A játék fejlesztéshez : Prezentációt és a játék alkotóelemiet tároljuk itt.
